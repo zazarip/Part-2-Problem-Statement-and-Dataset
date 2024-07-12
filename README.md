@@ -2,6 +2,8 @@
 
 For this project, I make predictions about every genre—up to 27—that a film falls into, based only on its plot. The data collection, which includes storyline and genre details for 117194 films, was sourced from IMDB. This classification issue has multiple labels. The number of genres that each movie is assigned within the data set is plotted in the image below. There are films that fit into less than 12 categories!
 
+Data source: https://drive.google.com/drive/folders/1dxCzXB55fDNw2HpHVA8vs-qCZ--BfOul?usp=sharing
+
 <img height=400 src="./Images/results/genres_per_movie.png"/>
 
 The word cloud plots for each genre provide suggestions for frequently used terms that are used to describe the plots. For instance, the vocabulary employed to characterise the storylines of various genres - `murder, kill, victim, death` for Thriller and `team, game, vs, match` for Sports (as one would expect) 
